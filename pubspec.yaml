@@ -31,6 +31,7 @@ dependencies:
   flutter:
     sdk: flutter
   shared_preferences: ^2.0.11 # shared preferences kullanmak için ekledik
+  path_provider: ^2.1.5       # path provider kullanmak için ekledik
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
